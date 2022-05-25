@@ -1,0 +1,26 @@
+{
+  "name": "meadowlark-travel",
+  "version": "1.0.0",
+  "description": "Projeto do livro NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cloves-Jose/Meadowlark-Travel.git"
+  },
+  "author": "Cloves José Duarte Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cloves-Jose/Meadowlark-Travel/issues"
+  },
+  "homepage": "https://github.com/Cloves-Jose/Meadowlark-Travel#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
